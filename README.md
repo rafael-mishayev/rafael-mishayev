@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Rafael 👋
 
-<!--
-**rafael-mishayev/rafael-mishayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Tel-Hai Academic College (B.Sc., graduating August 2027),
+looking for a student software engineering position.
 
-Here are some ideas to get you started:
+I build full-stack web applications end to end - REST backends, SQL data layers,
+server-rendered UIs and real test suites - and I care about getting the security
+details right rather than bolting them on later.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with:** Python · FastAPI · JavaScript · Node.js · Express · SQL/SQLite · Java · C/C++
+
+### Selected projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [playlist-workshop](https://github.com/rafael-mishayev/playlist-workshop) | YouTube playlist manager with user accounts - layered MVC + Repository architecture, no ORM, no frontend framework | Node.js, Express 5, SQLite, EJS |
+| [hebrew-text-summarizer](https://github.com/rafael-mishayev/hebrew-text-summarizer) | Async AI service that summarizes Hebrew text at three configurable lengths, with an RTL interface that works without JavaScript | Python, FastAPI, asyncio, Jinja2 |
+
+📫 rafaelmishayev@gmail.com
