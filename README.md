@@ -15,5 +15,6 @@ details right rather than bolting them on later.
 | --- | --- | --- |
 | [playlist-workshop](https://github.com/rafael-mishayev/playlist-workshop) | YouTube playlist manager with user accounts - layered MVC + Repository architecture, no ORM, no frontend framework | Node.js, Express 5, SQLite, EJS |
 | [hebrew-text-summarizer](https://github.com/rafael-mishayev/hebrew-text-summarizer) | Async AI service that summarizes Hebrew text at three configurable lengths, with an RTL interface that works without JavaScript | Python, FastAPI, asyncio, Jinja2 |
+| [set-calculator](https://github.com/rafael-mishayev/set-calculator) ([live demo](https://rafael-mishayev.github.io/set-calculator/)) | Interactive set-theory calculator with a Venn diagram built from real circle-intersection geometry, calculation history and dark mode | Vanilla JavaScript, SVG, CSS |
 
 📫 rafaelmishayev@gmail.com
